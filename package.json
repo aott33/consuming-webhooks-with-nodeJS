@@ -1,0 +1,16 @@
+{
+  "name": "consuming-webhooks-with-nodejs",
+  "version": "1.0.0",
+  "description": "- This is project is part of Codecademy [Full-Stack Engineer Pathway's](https://www.codecademy.com/learn/paths/full-stack-engineering-cfb) external resource:\r     - [Consuming Webhooks with Node.js and Express](https://medium.com/@BearerSH/consuming-webhooks-with-node-js-and-express-50e007fc7ae2) Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
